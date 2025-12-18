@@ -1,0 +1,19 @@
+@media only screen and (max-width: 576px) {
+    .notification_heading {
+        text-align: center !important;
+    }
+
+    .functional-subcommitteec {
+        display:none !important;
+    }
+}
+
+@media only screen and (max-width: 738px) {
+    .notification_heading {
+        text-align: center !important;
+    }
+
+    .functional-subcommittee {
+        display:none !important;
+    }
+}
